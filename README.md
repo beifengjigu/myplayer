@@ -5,7 +5,7 @@
 
 主界面
 
-![image-20210927014641550](image-20210927014641550.png)
+![image-20210927014641550](https://github.com/beifengjigu/myplayer/raw/master/image-20210927014641550.png)
 
 历史播放
 
