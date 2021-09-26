@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>align-justify.svg</file>
+        <file>music.svg</file>
+        <file>circle.svg</file>
+        <file>play.svg</file>
+        <file>cloud.svg</file>
+        <file>clock.svg</file>
+        <file>love.svg</file>
+        <file>volume.svg</file>
+        <file>volume-x.svg</file>
+        <file>volume-2.svg</file>
+        <file>volume-1.svg</file>
+        <file>skip-forward.svg</file>
+        <file>skip-back.svg</file>
+        <file>shuffle.svg</file>
+        <file>pause.svg</file>
+        <file>musicplayer.svg</file>
+        <file>heart.svg</file>
+        <file>arrow-right.svg</file>
+        <file>tool.svg</file>
+        <file>search.svg</file>
+        <file>repeat.svg</file>
+        <file>list.svg</file>
+        <file>headphones.svg</file>
+        <file>folder.svg</file>
+    </qresource>
+</RCC>
